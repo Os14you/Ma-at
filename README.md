@@ -4,8 +4,11 @@
 [![LangChain](https://img.shields.io/badge/LangChain-1.3.11%2B-orange.svg)](https://github.com/langchain-ai/langchain)
 [![FastMCP](https://img.shields.io/badge/FastMCP-3.4.2%2B-green.svg)](https://github.com/modelcontextprotocol)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-1.5.9%2B-blueviolet.svg)](https://github.com/chroma-core/chroma)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/hRZ-CJTipBw)
 
 Privacy policies and Terms of Service (ToS) agreements are notoriously long, dense, and filled with legal jargon. **Ma'at** is a legal-focused AI assistant that empowers everyday users to understand how their data is handled. By combining **Retrieval-Augmented Generation (RAG)** with local semantic storage, advanced query generation, and the **Model Context Protocol (MCP)**, this system translates complex legal obligations into concise, layperson-friendly answers.
+
+For the demo, [click here](https://youtu.be/hRZ-CJTipBw).
 
 ---
 
