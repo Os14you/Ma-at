@@ -1,6 +1,6 @@
-# Privacy Policy & ToS Analyzer
+# 🔒 Ma'at: Privacy Policy & ToS Analyzer
 
-This project is a legal-focused RAG system that processes and analyzes privacy policies and Terms of Service (ToS) documents. It utilizes **Hypothetical Document Embeddings (HyDE)** for precise retrieval of dense legal clauses and implements a **ReAct Agent** equipped with custom MCP tools (Date Calculator, Legal Dictionary) to translate complex legal terms into simple answers.
+This project is a legal-focused RAG system (named **Ma'at**) that processes and analyzes privacy policies and Terms of Service (ToS) documents. It utilizes **Hypothetical Document Embeddings (HyDE)** for precise retrieval of dense legal clauses and implements a **ReAct Agent** equipped with custom MCP tools (Date Calculator, Legal Dictionary) to translate complex legal terms into simple answers.
 
 ## Project Structure
 
