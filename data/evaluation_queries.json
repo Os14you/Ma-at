@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Does Spotify share my listening history with advertisers?",
+    "target_capability": "Basic Retrieval"
+  },
+  {
+    "id": 2,
+    "question": "What is the arbitration clause for Amazon?",
+    "target_capability": "Basic Retrieval"
+  },
+  {
+    "id": 3,
+    "question": "How long does Netflix keep my payment data after I cancel my subscription?",
+    "target_capability": "Basic Retrieval"
+  },
+  {
+    "id": 4,
+    "question": "If I delete my TikTok today, what exact date is my data wiped?",
+    "target_capability": "Tool Use (Date Calculator) + RAG"
+  },
+  {
+    "id": 5,
+    "question": "What does 'Force Majeure' mean in these documents?",
+    "target_capability": "Tool Use (Dictionary)"
+  },
+  {
+    "id": 6,
+    "question": "Does Meta (Facebook) collect my GPS location even when the app is closed?",
+    "target_capability": "HyDE Search Precision"
+  },
+  {
+    "id": 7,
+    "question": "Under CCPA, do I have the right to tell Apple not to sell my data?",
+    "target_capability": "Tool Use (Resource) + RAG"
+  },
+  {
+    "id": 8,
+    "question": "Can Google read my private emails to show me targeted ads?",
+    "target_capability": "Basic Retrieval"
+  },
+  {
+    "id": 9,
+    "question": "What happens to my account if I violate the Terms of Service for Twitch?",
+    "target_capability": "Basic Retrieval"
+  },
+  {
+    "id": 10,
+    "question": "What is 'Indemnification' and how does it apply to user-generated content?",
+    "target_capability": "Tool Use (Dictionary) + RAG"
+  }
+]
